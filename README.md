@@ -1,2 +1,4 @@
-# discord-auto-slowmode
-Automatic slowmode delay discord bot
+# Auto slowmode discord bot
+Just put your token in the index.js and run it
+
+Made by .thomasts using blackboxai
